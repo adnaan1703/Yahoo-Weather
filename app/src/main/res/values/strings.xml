@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Yahoo Weather</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_temperature">Temperature</string>
+    <string name="tv_condition">Condition</string>
+    <string name="tv_location">Location</string>
+    <string name="yahoo_logo_description">Yahoo attribution logo</string>
+    <string name="weather_icon_logo_description">Weather dynamic icon</string>
+    <string name="tv_sunrise">Sunrise</string>
+    <string name="tv_sunset">Sunset</string>
+    <string name="title_activity_launcher">LauncherActivity</string>
+    <string name="et_city">Enter City</string>
+    <string name="button_submit">Submit</string>
+    <string name="disclaimer">Developed by Kon-El</string>
+</resources>
